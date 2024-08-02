@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../web d ud/NOTES"
+		},
+		{
+			"path": "../../web d ud/spotify"
+		},
+		{
+			"path": "../../web d ud/unix_practise"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "spotify"
+	}
+}
